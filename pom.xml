@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <parent>
+    <groupId>ma.cy</groupId>
+    <artifactId>jouncy-java-parent</artifactId>
+    <version>2</version>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ma.cy</groupId>
+  <artifactId>jouncy-java-core</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0.0-SNAPSHOT</version>
+  <description>Jouncy java core libraries</description>
+  <inceptionYear>2016</inceptionYear>
+
+  <scm>
+    <url>https://github.com/jouncy/jouncy-java-core</url>
+    <connection>scm:git:git://github.com/jouncy/jouncy-java-core.git</connection>
+    <developerConnection>scg:git:git@github.com/jouncy/jouncy-java-core.git</developerConnection>
+  </scm>
+
+  <organization>
+    <name>cyma</name>
+    <url>http://cy.ma</url>
+  </organization>
+
+  <issueManagement>
+    <system>GitHub Issues</system>
+    <url>https://github.com/jouncy/jouncy-java-core/issues</url>
+  </issueManagement>
+
+  <licenses>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <name>Mohamed Ez-zarghili</name>
+      <email>mohamed [dot] ezzarghili [at] gmail [dot] com</email>
+    </developer>
+  </developers>
+
+  <repositories>
+    <repository>
+      <id>jouncy</id>
+      <name>joun.cy.ma</name>
+      <url>https://dl.bintray.com/jouncy/releases</url>
+      <releases>
+        <enabled>true</enabled>
+      </releases>
+    </repository>
+  </repositories>
+</project>

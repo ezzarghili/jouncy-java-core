@@ -1,0 +1,14 @@
+Copyright (c) 2016. Mohamed EZ-ZARGHILI <mohamed.ezzarghili@gmail.com>.
+
+This project is released under The Apache License, Version 2.0 see http://www.apache.org/licenses/LICENSE-2.0.txt
+
+Opensource software licenses
+This software uses some opensource libraries and software
+These libraries are licensed under the following licences:
+
+logback-classic: The MIT License	http://code.google.com/p/mockito/wiki/License
+hamcrest: BSD license https://opensource.org/licenses/BSD-3-Clause
+junit: Eclipse Public License (EPL), Version 1.0 http://www.eclipse.org/legal/epl-v10.html
+h2: Eclipse Public License (EPL), Version 1.0 http://www.eclipse.org/legal/epl-v10.html
+dbunit: LGPL GNU LESSER GENERAL PUBLIC LICENSE http://www.gnu.org/licenses/lgpl.txt
+
